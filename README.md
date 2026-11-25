@@ -18,19 +18,27 @@ CIRCUIT DIAGRAM:
 
 GRAPH:
 
-i)<img width="1267" height="300" alt="image" src="https://github.com/user-attachments/assets/82cc30d1-ed5f-4352-9195-c0f5f58d81f4" />
-
-
-
-ii)<img width="1295" height="327" alt="image" src="https://github.com/user-attachments/assets/34eaf7b8-4e7f-4fc8-b1c6-2045e45bf125" />
-
-
-iii)<img width="1267" height="297" alt="image" src="https://github.com/user-attachments/assets/d14b98a8-7f5b-48e9-a86b-8d8d24128c75" />
-
-
-iv)<img width="1267" height="317" alt="image" src="https://github.com/user-attachments/assets/54dc77cd-0fee-4b58-bca4-55c77bad383d" />
+i) R1
+<img width="1518" height="302" alt="WhatsApp Image 2026-11-25 at 7 01 54 PM" src="https://github.com/user-attachments/assets/93cdb61b-35c8-4cba-892f-2730e837fcf0" />
 
 
 
 
-Result: Thus, the BJT with voltage divider bias was designed using LTspice and the output was simulated and observed.
+ii)R2
+<img width="1521" height="302" alt="WhatsApp Image 2026-11-25 at 7 01 55 PM" src="https://github.com/user-attachments/assets/dea1d97b-26a0-48c5-ab80-0e0d0d038c20" />
+
+
+iii)R3
+<img width="1514" height="297" alt="WhatsApp Image 2026-11-25 at 7 01 55 PM (1)" src="https://github.com/user-attachments/assets/6a302f60-3042-4945-a002-2cbfb869701c" />
+
+
+
+iv)R4
+<img width="1509" height="302" alt="WhatsApp Image 2026-11-25 at 7 01 55 PM (2)" src="https://github.com/user-attachments/assets/23124af3-2228-4846-a811-b1640b8e31c5" />
+
+
+
+
+
+Result: 
+Thus, the BJT with voltage divider bias was designed using LTspice and the output was simulated and observed.
